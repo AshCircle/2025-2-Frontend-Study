@@ -1,0 +1,11 @@
+# ignore all (default)
+/*
+
+# not ignore .gitignore
+!.gitignore
+
+# not ignore weekN/
+!/week*/
+
+# ignore weekN/practice/
+/week*/practice/
